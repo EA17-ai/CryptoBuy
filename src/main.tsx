@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     
   
-  <BrowserRouter>
+  <BrowserRouter basename="/crpytoBuy">
   <App />
   </BrowserRouter>
   </React.StrictMode>,
