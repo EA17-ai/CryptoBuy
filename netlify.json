@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/" },
+    { "source": "/(.*)", "destination": "/" },
+    { "source": "/store", "destination": "/store" },
+    { "source": "/cart", "destination": "/cart" }
+  ]
+}
