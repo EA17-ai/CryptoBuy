@@ -1,7 +1,7 @@
 {
   "homepage":"https://ea17-ai.github.io/CryptoBuy/",
   "name": "shoppingcart",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
